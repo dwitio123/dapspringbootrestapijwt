@@ -5,8 +5,8 @@ Build #IC-243.23654.189, built on January 29, 2025
 @Author TGS a.k.a. Dwitio Ahmad Pranoto
 Java Developer
 Created on 04/02/2025 17:23
-@Last Modified 04/02/2025 17:23
-Version 1.0
+@Last Modified 04/02/2025 19:23
+Version 1.1
 */
 
 import org.springframework.web.bind.annotation.GetMapping;
